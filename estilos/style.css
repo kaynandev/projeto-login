@@ -54,6 +54,16 @@ div#ft{
     padding: 10px;
 }
 
+div#formu  h2{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+div#formu p{
+    text-align: center;
+    font-size: 0.8em;
+}
+
 
 
 
